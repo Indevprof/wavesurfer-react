@@ -1,17 +1,17 @@
 {
   "name": "wavesurfer-react",
   "version": "2.0.12",
-  "description": "react wrapper for wavesurfer.js",
+  "description": "react wrapper for @indevstudio/wavesurfer.js",
   "keywords": [
     "react",
-    "wavesurfer.js"
+    "@indevstudio/wavesurfer.js"
   ],
   "license": "MIT",
   "main": "dist/index.js",
   "author": "Denis Bogdanenko <shiirochi@yandex.ru>",
   "peerDependencies": {
     "react": "16.8.6",
-    "wavesurfer.js": "^3.2.0, ^4.0.0"
+    "@indevstudio/wavesurfer.js": "^5.2.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.5",
