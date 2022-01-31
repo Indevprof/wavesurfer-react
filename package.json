@@ -1,5 +1,5 @@
 {
-  "name": "wavesurfer-react",
+  "name": "@indevstudio/wavesurfer-react",
   "version": "2.0.12",
   "description": "react wrapper for @indevstudio/wavesurfer.js",
   "keywords": [
